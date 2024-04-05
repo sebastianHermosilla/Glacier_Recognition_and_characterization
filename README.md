@@ -20,7 +20,7 @@ For any inquiries or further information regarding this project, please contact:
 
 Sebastián Hermosilla, Francisca Carmona, Felipe Keim, Karina Hernández, Valeria Rojas
 
-s.hermosilla@ing.uchile.cl 
+s.hermosilla@ing.uchile.cl \\
 francisca.carmona@ug.uchile.cl
 felipe.keim@ug.uchile.cl
 karina.hernandez@ug.uchile.cl
